@@ -1,0 +1,7 @@
+DELETE http://localhost:8080/api/poistakayttaja/1
+Content-Type: application/json
+
+
+###
+
+###

@@ -1,0 +1,4 @@
+GET http://localhost:8080/api/sessio/1/treenit
+Accept: application/json
+
+

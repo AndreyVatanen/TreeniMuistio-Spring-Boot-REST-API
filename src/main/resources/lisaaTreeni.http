@@ -1,0 +1,51 @@
+POST http://localhost:8080/api/lisaatreeni/2
+Content-Type: application/json
+
+{
+  "liikkeenNimi": "Penkkipunnerrus",
+  "toistomaara": 12,
+  "painoKG": 80
+}
+
+###
+POST http://localhost:8080/api/lisaatreeni/2
+Content-Type: application/json
+
+{
+  "liikkeenNimi": "Penkkipunnerrus",
+  "toistomaara": 10,
+  "painoKG": 80
+}
+
+###
+POST http://localhost:8080/api/lisaatreeni/1
+Content-Type: application/json
+
+{
+  "liikkeenNimi": "Penkkipunnerrus",
+  "toistomaara": 8,
+  "painoKG": 80
+}
+
+###
+POST http://localhost:8080/api/lisaatreeni/1
+Content-Type: application/json
+
+{
+  "liikkeenNimi": "Penkkipunnerrus",
+  "toistomaara": 8,
+  "painoKG": 80
+}
+
+###
+POST http://localhost:8080/api/lisaatreeni/1
+Content-Type: application/json
+
+{
+  "liikkeenNimi": "Penkkipunnerrus",
+  "toistomaara": 8,
+  "painoKG": 80
+}
+
+
+

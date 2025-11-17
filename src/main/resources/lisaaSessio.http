@@ -1,0 +1,9 @@
+POST http://localhost:8080/api/luosessio/2
+Content-Type: application/json
+
+{
+  "paivamaara": "2025-11-16",
+  "treeniloki": []
+}
+
+

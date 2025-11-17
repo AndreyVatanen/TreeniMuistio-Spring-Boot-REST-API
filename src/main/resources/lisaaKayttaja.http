@@ -1,0 +1,31 @@
+POST http://localhost:8080/api/lisaa
+Content-Type: application/json
+
+{
+  "nimi": "pekka",
+  "sahkoposti": "apekka@netti.fi"
+
+}
+
+###
+
+POST http://localhost:8080/api/lisaa
+Content-Type: application/json
+
+{
+
+  "nimi": "matti",
+  "sahkoposti": "mattipekka@paska.fi"
+
+}
+
+###
+POST http://localhost:8080/api/lisaa
+Content-Type: application/json
+
+{
+
+"nimi": "matti",
+"sahkoposti": "mattipekka@paska.fi"
+
+}
